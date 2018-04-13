@@ -1,0 +1,2 @@
+#!groovy
+def call
